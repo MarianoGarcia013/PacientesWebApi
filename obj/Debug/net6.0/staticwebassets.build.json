@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x2iolGW1V/yMqfzRUiOm5zqxwWaASYonoUXbrhY7ZxI=",
+  "Source": "WebApiPacientes",
+  "BasePath": "_content/WebApiPacientes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
